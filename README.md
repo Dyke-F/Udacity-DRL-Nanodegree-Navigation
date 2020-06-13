@@ -45,5 +45,5 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
     
 ## User instructions
 
-To teach the agent, open an instance of Jupyter Notebook and exectute  
+To teach the agent, open an instance of Jupyter Notebook and exectute `Main.ipynb`.
    
