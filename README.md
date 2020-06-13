@@ -3,7 +3,7 @@
 
 
 # Udacity-DRL-Nanodegree-Navigation
-Navigation Project of Udacity's Deep Reinforcement Learning Nanodegree
+*Navigation Project of Udacity's Deep Reinforcement Learning Nanodegree*
 
 This programm contains my work for "Project 1: Navigation" of [Udacity's Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
 
