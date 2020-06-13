@@ -12,7 +12,7 @@ The goal is to apply deep reinforcement learning techniques to train an agent to
 
 ![Trained Agent][image1]
 
-Example actions taken by an trained agent as provided by 
+Example actions taken by an trained agent as provided by [Udacity's Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning/blob/master/p1_navigation/README.md).
 
 
 
