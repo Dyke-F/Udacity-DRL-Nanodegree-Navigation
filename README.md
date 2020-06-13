@@ -1,3 +1,8 @@
+[//]: # (Image References)
+
+[image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
+
+
 # Udacity-DRL-Nanodegree-Navigation
 Navigation Project of Udacity's Deep Reinforcement Learning Nanodegree
 
@@ -5,7 +10,6 @@ This programm contains my work for "Project 1: Navigation" of [Udacity's Deep Re
 
 ## Aim of the project
 The goal is to apply deep reinforcement learning techniques to train an agent to move through a virtual grid world and collect as many yellow bananas as possible (giving a reward of +1), while avoiding blue bananas (leading to a reward of -1). 
-
 
 ![Trained Agent][image1]
 Example actions taken by an trained agent as provided by 
