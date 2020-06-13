@@ -3,6 +3,15 @@ Navigation Project of Udacity's Deep Reinforcement Learning Nanodegree
 
 This programm contains my work for "Project 1: Navigation" of [Udacity's Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
 
+## Aim of the project
+The goal is to apply deep reinforcement learning techniques to train an agent to move through a virtual grid world and collect as many yellow bananas as possible (giving a reward of +1), while avoiding blue bananas (leading to a reward of -1). 
+
+
+![Trained Agent][image1]
+Example actions taken by an trained agent as provided by 
+
+
+
 ## Getting started
 
 ### Installation requirements
